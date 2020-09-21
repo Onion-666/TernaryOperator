@@ -10,6 +10,7 @@ namespace TernaryOperator
             int x = Int32.Parse(temp);
             int num = (x < 0) ? 1 : 2;
             Console.WriteLine(num);
+            //
         }
     }
 }
